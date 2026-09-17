@@ -1,6 +1,6 @@
-# Segundo proyecto sencillo de React y TypeScript
+# Mejora del segundo proyecto usando el hook useReducer de TypeScript
 
-URL de la web en producción: https://ivanmaag-calculadora-propinas.netlify.app/
+URL de la web en producción: https://ivanmaag-calculadora-propinas-usereducer.netlify.app/
 
 # React + TypeScript + Vite
 
